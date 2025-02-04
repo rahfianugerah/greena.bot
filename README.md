@@ -5,7 +5,9 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?&logo=node.js&logoColor=white)
 ![Github Action](https://img.shields.io/badge/GitHub_Action-%23121011.svg?&logo=github&logoColor=white)
 
+
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/8d964467-b8e3-4624-8df9-39e76b2ebd92" height=200 width=200/>
   <h3>
     Greena
   </h3>
