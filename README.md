@@ -6,7 +6,6 @@
 ![Github Action](https://img.shields.io/badge/GitHub_Action-%23121011.svg?&logo=github&logoColor=white)
 
 <div align="center">
-  <img src="img/GREENA.webp" height=200 width=200>
   <h3>
     Greena
   </h3>
